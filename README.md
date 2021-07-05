@@ -4,7 +4,7 @@
 * On Tap: Open Image Picker
 * On Pinch: Scale the Image View
 * On Rotation: Rotate the Image View
-* On Swipe: Move the Image View by som distance in the swipe direction
+* On Swipe: Move the Image View by some distance in the swipe direction
 * On Pan: Move the Image View based on Pan location
 ### Implemented Elements
 * UIImageView
